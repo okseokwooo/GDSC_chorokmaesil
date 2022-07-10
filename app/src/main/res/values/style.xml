@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="timepickerFontSize" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textSize">22sp</item>
+        <item name ="android:fontFamily">@font/pretendard</item>
+    </style>
+    <style name="mainColor" parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">#8D80F6
+        </item>
+    </style>
+    <style name ="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name = "android:windowBackground">@drawable/img</item>
+    </style>
+
+
+
+</resources>
